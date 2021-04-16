@@ -7,7 +7,7 @@ Swashbuckle.AspNetCore (6.1.2)
 
 Modelo de excel esperado:
 
-name  |  age  |
-João  |  22   |
-Maria |  21   |
-Jozé  |  15   |
+name    | age  |<br>
+João    | 22   |<br>
+Maria   | 21   |<br>
+José    | 15   |
