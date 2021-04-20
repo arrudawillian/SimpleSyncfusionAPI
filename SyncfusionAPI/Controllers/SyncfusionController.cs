@@ -14,7 +14,7 @@ namespace SyncfusionAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class EPPlusController : ControllerBase
+    public class SyncfusionController : ControllerBase
     {
         /// <summary>
         /// Importação
